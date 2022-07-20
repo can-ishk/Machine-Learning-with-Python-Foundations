@@ -1,6 +1,0 @@
-from datetime import datetime
-str1 = "jekjfe"
-
-if (type(str) == '<class \'str\'>'):
-    print("string")
-print(datetime.today())
